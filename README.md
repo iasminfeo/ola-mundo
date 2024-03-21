@@ -1,2 +1,2 @@
-# ola mundo
- primeiro repositório do curso guanabara
+# Olá Mundo
+ primeiro repositório do curso do Guanabara!
